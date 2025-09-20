@@ -1,4 +1,4 @@
-Project Overview
+PROJECT OVERVIEW
 Project Title: Library Management System
 Level: Intermediate
 Database: library_management
@@ -93,6 +93,7 @@ How to Use
 Clone the Repository: Clone this repository to your local machine.
 
 git clone https://github.com/apekshakhare45-blip/library_management_project/edit/main/README.md 
+
 Set Up the Database: Execute the SQL scripts in the database_setup.sql file to create and populate the database.
 
 Run the Queries: Use the SQL queries in the analysis_queries.sql file to perform the analysis.
